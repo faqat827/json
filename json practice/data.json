@@ -1,0 +1,122 @@
+[
+    {
+        "id": 101,
+        "personal_info": {
+            "name": "Faqat",
+            "class": 8,
+            "skills": [
+                "Python",
+                "HTML",
+                "CSS"
+            ]
+        }
+    },
+    {
+        "id": 102,
+        "personal_info": {
+            "name": "Ali",
+            "class": 8,
+            "skills": [
+                "JavaScript",
+                "HTML",
+                "Tailwind"
+            ]
+        }
+    },
+    {
+        "id": 103,
+        "personal_info": {
+            "name": "Zainab",
+            "class": 8,
+            "skills": [
+                "Python",
+                "SQL",
+                "Pandas"
+            ]
+        }
+    },
+    {
+        "id": 104,
+        "personal_info": {
+            "name": "Hamza",
+            "class": 8,
+            "skills": [
+                "C++",
+                "Data Structures",
+                "Algorithms"
+            ]
+        }
+    },
+    {
+        "id": 105,
+        "personal_info": {
+            "name": "Sara",
+            "class": 8,
+            "skills": [
+                "UI/UX",
+                "Figma",
+                "CSS"
+            ]
+        }
+    },
+    {
+        "id": 106,
+        "personal_info": {
+            "name": "Usman",
+            "class": 8,
+            "skills": [
+                "Python",
+                "Scikit-Learn",
+                "Git"
+            ]
+        }
+    },
+    {
+        "id": 107,
+        "personal_info": {
+            "name": "Ayesha",
+            "class": 8,
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    },
+    {
+        "id": 108,
+        "personal_info": {
+            "name": "Bilal",
+            "class": 8,
+            "skills": [
+                "Linux",
+                "Bash",
+                "Python"
+            ]
+        }
+    },
+    {
+        "id": 109,
+        "personal_info": {
+            "name": "Fatima",
+            "class": 8,
+            "skills": [
+                "Python",
+                "MySQL",
+                "Flask"
+            ]
+        }
+    },
+    {
+        "id": 110,
+        "personal_info": {
+            "name": "Omar",
+            "class": 8,
+            "skills": [
+                "Java",
+                "OOP",
+                "Git"
+            ]
+        }
+    }
+]
